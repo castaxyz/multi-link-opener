@@ -14,7 +14,7 @@ enfocada en el despliegue de soluciones en entornos On-Premises (IIS) y en la nu
 ## Video de Evidencia
 
 Explicación detallada del proceso de despliegue y funcionamiento en el siguiente enlace: 
-[Enlace al video narrado aquí]
+https://youtu.be/gNvl6hARLzI?si=aKceIVMOkRY5wdXa
 
 ---
 
